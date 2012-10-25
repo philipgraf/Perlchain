@@ -20,6 +20,8 @@ if($argc==0){
 
 
 
+
+
 sub genModel{
 	print "generate Model...\n";
 	print @_;
